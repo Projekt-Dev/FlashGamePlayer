@@ -10,12 +10,12 @@
     End Sub
     Private Sub time_Tick(sender As Object, e As EventArgs) Handles time.Tick
 
-        bar.Width += sleep.Next(0, 3) 'Progress width by minimum of 0 and max of 3
+        bar.Width += sleep.Next(1, 3) 'Progress width by minimum of 0 and max of 3
 
         If (bar.Width >= 700) Then 'If the width of panel is greater or equal to 700 open main form
             time.Stop()
             main.Show()
-            Me.Hide()
+            Hide()
         End If
 
     End Sub
