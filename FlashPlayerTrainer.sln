@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FlashPlayerTrainer", "FlashPlayerTrainer.vbproj", "{A6F257C0-D5F2-4903-8C21-22A9FECF05AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F257C0-D5F2-4903-8C21-22A9FECF05AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F257C0-D5F2-4903-8C21-22A9FECF05AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F257C0-D5F2-4903-8C21-22A9FECF05AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F257C0-D5F2-4903-8C21-22A9FECF05AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CAB7EC-3883-41D8-BDFE-B059C549E9C3}
+	EndGlobalSection
+EndGlobal
